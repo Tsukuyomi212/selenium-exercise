@@ -4,6 +4,7 @@ const endpoints = {
   login: 'https://www.phptravels.net/login',
   admin: 'https://phptravels.net/api/admin',
   userDashboard: 'https://www.phptravels.net/account/dashboard',
+  userProfile: 'https://www.phptravels.net/account/profile',
 };
 
 module.exports = endpoints;
